@@ -1,13 +1,12 @@
 <html>
 <head>
-	<meta name="generator" content="Hugo 0.71.1" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Example Site</title>
+    <title>Example Site - Posts </title>
     
     
-    <meta content="Example Site" name="keywords">
+    <meta content="index" name="keywords">
     
     <meta content="Example Site - A website called Example Site" name="description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,8 +14,8 @@
     
 
     
-        <link href="/index.xml" rel="alternate" type="application/rss&#43;xml" title="Example Site" />
-        <link href="/index.xml" rel="feed" type="application/rss&#43;xml" title="Example Site" />
+        <link href="/post/index.xml" rel="alternate" type="application/rss&#43;xml" title="Example Site" />
+        <link href="/post/index.xml" rel="feed" type="application/rss&#43;xml" title="Example Site" />
     
 
     
@@ -87,57 +86,25 @@ layui.use('element', function(){
 </script>
         <div id="content" style="min-height:80%">
 
-<main>
-<div class="layui-container">
-    <div class="layui-row about">
-        <div class="layui-col-xs12 layui-col-sm4 layui-col-md4 about_left">
-            <img class="lazyload about_portrait" data-src="self/img/avater.jpg" />
-            <h1> Steve Francia </h1>
-            <h2> Intro </h2>
-            
-            
-            
-            <div class="layui-row layui-col-space10 about_left_icon">
-                
-                <div class="layui-col-md3 layui-col-sm3 layui-col-xs3">
-                <a href="mailto:username@mail.com"><i class="fa fa-envelope-o" style="font-size:32px;"></i></a>
-                </div>
-                
-                <div class="layui-col-md3 layui-col-sm3 layui-col-xs3">
-                <a href="https://github.com/username/"><i class="fa fa-github" style="font-size:32px;"></i></a>
-                </div>
-                
-                <div class="layui-col-md3 layui-col-sm3 layui-col-xs3">
-                <a href="https://www.instagram.com/username/"><i class="fa fa-instagram" style="font-size:32px;"></i></a>
-                </div>
-                
-                <div class="layui-col-md3 layui-col-sm3 layui-col-xs3">
-                <a href="https://twitter.com/username"><i class="fa fa-twitter" style="font-size:32px;"></i></a>
-                </div>
-                
-            </div>
-            
+<main id="main">
 
+<div class="layui-fluid list-show" >
+    <div class="layui-row">
+        <div class="layui-col-md6 layui-col-sm12 layui-col-xs12">
+            <div class="list-show-title">
+                <h1>These are my blogs</h1>
+                <h2>and also my life</h2>
+            </div>
         </div>
-        <div class="layui-col-xs12 layui-col-sm8 layui-col-md8 about_right">
-            <h1>Biography</h1>
-            <h2>    <p> This is BIO. You can write something here. </p>
-    <br />
-    <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
-    </h2>
+        <div class="layui-col-md6 layui-col-sm12 layui-col-xs12" style="text-align:center;">
+            <img src="/self/img/undraw_chat_bot_kli5.png" class="list-title-pic">
         </div>
     </div>
 </div>
 
-<div class="layui-fluid recent" >
-    <div class="layui-container">
-        <div class="layui-row recent-inner" >
-            <div class="layui-col-md8 layui-col-sm8 layui-col-xs12">
-                <h1> Recent Posts </h1>
-                
-                    
-                    
-                            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
+<div class="layui-container">
+        
+            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
         <a href="/post/markdown-syntax/">
             <h2 class="">Markdown Syntax Guide</h2>
         </a>
@@ -190,8 +157,8 @@ layui.use('element', function(){
         </h3>
     </blockquote>
 
-                    
-                            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
+    
+            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
         <a href="/post/placeholder-text/">
             <h2 class="">Placeholder Text</h2>
         </a>
@@ -226,8 +193,8 @@ layui.use('element', function(){
         </h3>
     </blockquote>
 
-                    
-                            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
+    
+            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
         <a href="/post/math-typesetting/">
             <h2 class="">Math Typesetting</h2>
         </a>
@@ -252,8 +219,8 @@ layui.use('element', function(){
         </h3>
     </blockquote>
 
-                    
-                            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
+    
+            <blockquote class="self-elem-quote self-elem-quote-bg-red" style="background-color:#FFFFFF;margin-top: 10px;">
         <a href="/post/emoji-support/">
             <h2 class="">Emoji Support</h2>
         </a>
@@ -284,76 +251,30 @@ layui.use('element', function(){
         </h3>
     </blockquote>
 
-                    
-                
-            </div>
+    
 
-            <div class="layui-col-md4 layui-col-sm4 layui-col-xs12">
-
-                
-                <input id="search" type="text" name="search" placeholder="Intra-Site Search" autocomplete="off" class="layui-input">
-                <script type="text/javascript">
-                    $("#search").keyup(function(event){
-                        if(event.keyCode ==13){
-                            document.location = "https://www.google.com/search?q=" + $("#search").val() + "+site%3Ahttps:\/\/example.com"
-                        }
-                    });
-                </script>
-                
-
-                
-                    <h1><a href="/categories">categories</a> </h1>
-                    
-                        <a href="/categories/syntax/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">syntax</span>
-                        </a>
-                    
-                        <a href="/categories/themes/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">themes</span>
-                        </a>
-                    
-                
-                    <h1><a href="/series">series</a> </h1>
-                    
-                        <a href="/series/themes-guide/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">themes-guide</span>
-                        </a>
-                    
-                
-                    <h1><a href="/tags">tags</a> </h1>
-                    
-                        <a href="/tags/css/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">css</span>
-                        </a>
-                    
-                        <a href="/tags/emoji/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">emoji</span>
-                        </a>
-                    
-                        <a href="/tags/html/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">html</span>
-                        </a>
-                    
-                        <a href="/tags/index/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">index</span>
-                        </a>
-                    
-                        <a href="/tags/markdown/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">markdown</span>
-                        </a>
-                    
-                        <a href="/tags/text/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">text</span>
-                        </a>
-                    
-                        <a href="/tags/themes/">
-                            <span class="layui-badge layui-bg-orange" style="margin: 5px">themes</span>
-                        </a>
-                    
-                
-            </div>
-        </div>
+    
+<div class="pager">
+    <div class="layui-btn-group">
+        <button type="button" class="layui-btn layui-btn-primary layui-btn-sm">
+            <a href="/post/"><i class="layui-icon">&#xe65a;</i></a>
+        </button>
+        
+        <button type="button" class="layui-btn layui-btn-disabled layui-btn-sm">
+            <i class="layui-icon">&#xe603;</i>
+        </button>
+        
+        
+        <button type="button" class="layui-btn layui-btn-disabled layui-btn-sm">
+            <i class="layui-icon">&#xe602;</i>
+        </button>
+        
+        <button type="button" class="layui-btn layui-btn-primary layui-btn-sm">
+            <a href="/post/"><i class="layui-icon">&#xe65b;</i></a>
+        </button>
     </div>
+</div>
+
 </div>
 
 </main>
