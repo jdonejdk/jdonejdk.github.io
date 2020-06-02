@@ -1,11 +1,7 @@
 +++
-title = "A gallery"
-date = "2019-03-05"
+title = "TK语录"
+date = "2020-06-02"
 +++
 
-照片墙 示例，懒得删除了。
-{{< figure src="/img/screenshot.png" title="/img/index.png" >}}
-{{< figure src="/img/list.png" title="/img/list.png" >}}
-{{< figure src="/img/single.png" title="/img/single.png" >}}
-{{< figure src="/img/zone.png" title="/img/zone.png" >}}
-{{< figure src="/img/about.png" title="/img/about.png" >}}
+# TK语录
+{{< figure src="/img/TK1.png" title="/img/TK1.png" >}}
