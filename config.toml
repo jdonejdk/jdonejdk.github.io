@@ -13,7 +13,7 @@ footnoteReturnLinkContents = "^"
     quote = "red"
     index_posts_num = 5
     google_search = true
-    logo = "jdonejdk.github.ioself/img/avater.jpg"
+    logo = "/self/img/avater.jpg"
     bio = """
     <p> 渡人亦是渡己 </p>
     <br />
