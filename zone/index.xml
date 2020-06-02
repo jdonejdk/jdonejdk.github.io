@@ -6,36 +6,18 @@
     <description>Recent content in Zones on jdonejdk&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 21:18:46 +0800</lastBuildDate>
     
 	<atom:link href="https://jdonejdk.github.io/zone/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Happy Birthday to BM</title>
-      <link>https://jdonejdk.github.io/zone/3/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <title>First</title>
+      <link>https://jdonejdk.github.io/zone/first_zone/</link>
+      <pubDate>Tue, 02 Jun 2020 21:18:46 +0800</pubDate>
       
-      <guid>https://jdonejdk.github.io/zone/3/</guid>
-      <description>A scholarship A letter from my email says that I have got a scholarship.</description>
-    </item>
-    
-    <item>
-      <title>Happy Birthday to BM</title>
-      <link>https://jdonejdk.github.io/zone/1/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/zone/1/</guid>
-      <description>Happy Birthday to BM! Happy Birthday to you, Be happy and healthy!</description>
-    </item>
-    
-    <item>
-      <title>I got my first salary</title>
-      <link>https://jdonejdk.github.io/zone/2/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/zone/2/</guid>
-      <description>I got my first salary In this semester, I am a TA for C Language Programming. Today I got my first salary in my life. I felt proud of myself.</description>
+      <guid>https://jdonejdk.github.io/zone/first_zone/</guid>
+      <description>博客新生，顺带学习github。。。啦啦啦 </description>
     </item>
     
   </channel>

@@ -3,122 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jdonejdk.github.io/zone/first_zone/</loc>
+    <lastmod>2020-06-02T21:18:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdonejdk.github.io/</loc>
+    <lastmod>2020-06-02T21:18:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdonejdk.github.io/zone/</loc>
+    <lastmod>2020-06-02T21:18:46+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdonejdk.github.io/about/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jdonejdk.github.io/zone/3/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/zone/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/zone/1/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/zone/2/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jdonejdk.github.io/gallery/a/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +33,23 @@
   </url>
   
   <url>
+    <loc>https://jdonejdk.github.io/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://jdonejdk.github.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jdonejdk.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jdonejdk.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jdonejdk.github.io/tags/</loc>
   </url>
   
 </urlset>

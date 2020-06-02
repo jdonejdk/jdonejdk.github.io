@@ -6,10 +6,19 @@
     <description>Recent content on jdonejdk&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 21:18:46 +0800</lastBuildDate>
     
 	<atom:link href="https://jdonejdk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First</title>
+      <link>https://jdonejdk.github.io/zone/first_zone/</link>
+      <pubDate>Tue, 02 Jun 2020 21:18:46 +0800</pubDate>
+      
+      <guid>https://jdonejdk.github.io/zone/first_zone/</guid>
+      <description>博客新生，顺带学习github。。。啦啦啦 </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -21,76 +30,12 @@
     </item>
     
     <item>
-      <title>Happy Birthday to BM</title>
-      <link>https://jdonejdk.github.io/zone/3/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/zone/3/</guid>
-      <description>A scholarship A letter from my email says that I have got a scholarship.</description>
-    </item>
-    
-    <item>
-      <title>Happy Birthday to BM</title>
-      <link>https://jdonejdk.github.io/zone/1/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/zone/1/</guid>
-      <description>Happy Birthday to BM! Happy Birthday to you, Be happy and healthy!</description>
-    </item>
-    
-    <item>
-      <title>I got my first salary</title>
-      <link>https://jdonejdk.github.io/zone/2/</link>
-      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/zone/2/</guid>
-      <description>I got my first salary In this semester, I am a TA for C Language Programming. Today I got my first salary in my life. I felt proud of myself.</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://jdonejdk.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://jdonejdk.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://jdonejdk.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>A gallery</title>
       <link>https://jdonejdk.github.io/gallery/a/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jdonejdk.github.io/gallery/a/</guid>
-      <description>  /img/index.png     /img/list.png     /img/single.png     /img/zone.png     /img/about.png   </description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://jdonejdk.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdonejdk.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>照片墙 示例，懒得删除了。   /img/index.png     /img/list.png     /img/single.png     /img/zone.png     /img/about.png   </description>
     </item>
     
   </channel>
