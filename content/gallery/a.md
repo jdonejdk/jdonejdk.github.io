@@ -3,6 +3,7 @@ title = "A gallery"
 date = "2019-03-05"
 +++
 
+照片墙 示例，懒得删除了。
 {{< figure src="/img/screenshot.png" title="/img/index.png" >}}
 {{< figure src="/img/list.png" title="/img/list.png" >}}
 {{< figure src="/img/single.png" title="/img/single.png" >}}
