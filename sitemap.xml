@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jdonejdk.github.io/zone/first_zone/</loc>
-    <lastmod>2020-06-02T21:18:46+08:00</lastmod>
+    <loc>https://jdonejdk.github.io/post/first_post/</loc>
+    <lastmod>2020-06-02T21:20:29+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jdonejdk.github.io/</loc>
+    <lastmod>2020-06-02T21:20:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdonejdk.github.io/post/</loc>
+    <lastmod>2020-06-02T21:20:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdonejdk.github.io/zone/first_zone/</loc>
     <lastmod>2020-06-02T21:18:46+08:00</lastmod>
   </url>
   
@@ -38,10 +48,6 @@
   
   <url>
     <loc>https://jdonejdk.github.io/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jdonejdk.github.io/post/</loc>
   </url>
   
   <url>
